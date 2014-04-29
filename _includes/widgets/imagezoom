@@ -126,7 +126,7 @@ div.zoomMask {
 
 </head>
 
-<body>
+<!--body>
 
 <div class="box">
 
@@ -166,5 +166,5 @@ $(document).ready(function(){
 
 });
 </script>
- </body>
+ </body-->
  </html>
